@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Thejitha Chanupathi 👋
 
-<!--
-**Thejitha-C/Thejitha-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently completed my HND in Computing and Software Engineering. I am interested in full-stack development, web development, and software engineering.
 
-Here are some ideas to get you started:
+I have basic knowledge of HTML, CSS, PHP, Java, and MySQL, along with practical experience in WordPress, Elementor, website updates, and digital operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently improving my development skills by building small projects and learning more about front-end, back-end, databases, and clean coding practices.
+
+## Technical Skills
+
+* HTML
+* CSS
+* JavaScript basics
+* PHP basics
+* Java basics
+* MySQL
+* WordPress
+* Elementor
+* Git and GitHub basics
+
+## Currently Learning
+
+* JavaScript
+* Full-stack development fundamentals
+* Database handling
+* Git and GitHub workflow
+* Real-world software development practices
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/thejitha-chanupathi/
+
+Email: [chanupathi30@gmail.com](mailto:chanupathi30@gmail.com)
