@@ -48,4 +48,5 @@ Completed academic projects related to system development, business information 
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/thejitha-chanupathi/
+
 Email: [chanupathi30@gmail.com](mailto:chanupathi30@gmail.com)
